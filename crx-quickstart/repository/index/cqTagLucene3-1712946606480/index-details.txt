@@ -1,0 +1,5 @@
+#Index metadata
+#Fri Apr 12 15:30:09 BRT 2024
+creationTime=1712946609024
+indexPath=/oak\:index/cqTagLucene-3
+metaFormatVersion=1

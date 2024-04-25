@@ -1,0 +1,5 @@
+#Index metadata
+#Fri Apr 12 15:30:18 BRT 2024
+creationTime=1712946618571
+indexPath=/oak\:index/cmLucene-2
+metaFormatVersion=1

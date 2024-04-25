@@ -1,0 +1,5 @@
+#Index metadata
+#Fri Apr 12 15:30:08 BRT 2024
+creationTime=1712946608709
+indexPath=/oak\:index/cqPageLucene
+metaFormatVersion=1
