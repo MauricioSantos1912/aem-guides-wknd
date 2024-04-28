@@ -1,5 +1,0 @@
-#Index metadata
-#Fri Apr 12 15:30:18 BRT 2024
-creationTime=1712946618429
-indexPath=/oak\:index/assetLinkShare-1
-metaFormatVersion=1

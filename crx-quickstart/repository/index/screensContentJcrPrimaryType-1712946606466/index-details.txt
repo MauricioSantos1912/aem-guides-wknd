@@ -1,5 +1,0 @@
-#Index metadata
-#Fri Apr 12 15:30:17 BRT 2024
-creationTime=1712946617916
-indexPath=/oak\:index/screensContentJcrPrimaryType
-metaFormatVersion=1

@@ -1,9 +1,0 @@
-.cq-rail-references section[data-type=launch] coral-icon {
-  float: none;
-  color: #999999;
-  margin-right: 0.250rem;
-}
-.cq-rail-references section[data-type=launch] .launches-parentLaunch {
-  color: #999999;
-  font-weight: normal;
-}

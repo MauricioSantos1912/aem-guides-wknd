@@ -1,5 +1,0 @@
-#Index metadata
-#Fri Apr 12 15:30:19 BRT 2024
-creationTime=1712946619112
-indexPath=/oak\:index/slingeventJob-2
-metaFormatVersion=1

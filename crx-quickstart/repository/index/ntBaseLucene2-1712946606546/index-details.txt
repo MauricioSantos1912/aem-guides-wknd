@@ -1,5 +1,0 @@
-#Index metadata
-#Fri Apr 12 15:30:06 BRT 2024
-creationTime=1712946606711
-indexPath=/oak\:index/ntBaseLucene-2
-metaFormatVersion=1

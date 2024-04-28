@@ -1,5 +1,0 @@
-#Index metadata
-#Fri Apr 12 15:30:20 BRT 2024
-creationTime=1712946620166
-indexPath=/oak\:index/experienceFragmentsIndex-3
-metaFormatVersion=1

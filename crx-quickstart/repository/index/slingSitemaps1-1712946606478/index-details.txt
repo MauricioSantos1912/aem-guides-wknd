@@ -1,5 +1,0 @@
-#Index metadata
-#Fri Apr 12 15:30:18 BRT 2024
-creationTime=1712946618712
-indexPath=/oak\:index/slingSitemaps-1
-metaFormatVersion=1

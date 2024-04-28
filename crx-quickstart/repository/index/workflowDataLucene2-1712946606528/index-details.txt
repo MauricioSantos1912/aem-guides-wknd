@@ -1,5 +1,0 @@
-#Index metadata
-#Fri Apr 12 15:30:21 BRT 2024
-creationTime=1712946621350
-indexPath=/oak\:index/workflowDataLucene-2
-metaFormatVersion=1

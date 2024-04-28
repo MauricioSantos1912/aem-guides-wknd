@@ -1,5 +1,0 @@
-#Index metadata
-#Fri Apr 12 15:30:23 BRT 2024
-creationTime=1712946623380
-indexPath=/oak\:index/internalVerificationLucene
-metaFormatVersion=1
